@@ -24,4 +24,4 @@ jobs:
           # pip install -r requirements.txt
 
       - name: Run Python Script
-        run: python https://github.com/aditianant/testcase.git
+        run: python test.py
